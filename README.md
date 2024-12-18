@@ -12,7 +12,7 @@
 - **Java 17** ☕
 - **Spring Boot** 🌱
 - **Maven** 📦
-- **PostgreSQL** (database) 🗄️
+- **PostgreSQL** (database on Amazon RDS Service) 🗄️
 - **Docker** (for containerization) 🐳
 - **AWS EC2** (hosting) ☁️
 
