@@ -1,6 +1,6 @@
 # 🌍 Planner: Group Travel Management Application
 
-The *Planner* is an application designed for managing group trips. It simplifies the organization of events, activities, invitations, and more, fostering a collaborative experience for participants.
+*Planner* is an application designed for managing group trips. It simplifies the organization of events, activities, invitations, and more, fostering a collaborative experience for participants.
 
 ## 🚀 Deployed Demo on Vercel. Access it here:
 
